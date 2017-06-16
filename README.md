@@ -1,5 +1,8 @@
 # macro-medley
 
+![macro-medley Build Status](https://circleci.com/gh/analyticbastard/macro-medley.svg?&style=shield&circle-token=4c2042ac8fb21debecbd6cc6fe46ddfb76f462b6 "macro-medley Build Status")
+
+
 Medley of utility macros for a more expressive idiomatic code
 
 [weavejester/medley](https://github.com/weavejester/medley) specifically includes only functions so macros are explicitly excluded. This library intends to provide a home for all those macros that are very useful but self-contained and small enough not to be part of their own framework or purpose library. 
